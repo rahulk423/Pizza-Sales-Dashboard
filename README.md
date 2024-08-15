@@ -1,4 +1,4 @@
-# Pizza-Sales-Dashbord
+# Pizza-Sales-Dashboard
 ## Problem Statement
 
 The Pizza business needs to gain deeper insights into its performance by analysing key metrics from  sales data. This analysis will help us identify trends, optimise offerings, and make data-driven decisions to improve profitability.
